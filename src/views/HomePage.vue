@@ -21,14 +21,14 @@
   </ion-page>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/vue';
 </script>
 
 <style scoped>
 #container {
   text-align: center;
-  
+
   position: absolute;
   left: 0;
   right: 0;
@@ -44,9 +44,9 @@ import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/vue
 #container p {
   font-size: 16px;
   line-height: 22px;
-  
+
   color: #8c8c8c;
-  
+
   margin: 0;
 }
 

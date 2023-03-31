@@ -1,7 +1,5 @@
 {
   "name": "ionic-app",
-  "integrations": {
-    "capacitor": {}
-  },
+  "integrations": {},
   "type": "vue-vite"
 }
